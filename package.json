@@ -1,0 +1,19 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "description": "Commonly used TS functions",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SevketYALCIN/common.git"
+  },
+  "author": "Sevket Yalcin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SevketYALCIN/common/issues"
+  },
+  "homepage": "https://github.com/SevketYALCIN/common#readme"
+}
